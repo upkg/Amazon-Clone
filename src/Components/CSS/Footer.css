@@ -1,0 +1,25 @@
+.footer {
+  border-top: 2px solid lightgray;
+  padding: 20px;
+  background-color: #1a0e50;
+  text-align: center;
+  color: white;
+  /* width: 100vw; */
+  /* margin-top: 30px; */
+  display: flex;
+  flex-direction: column;
+}
+
+.footer__topInfo {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+
+.footer__top {
+  justify-content: left;
+}
+
+.footer__bottom {
+  margin-top: 20px;
+}
